@@ -12,6 +12,8 @@ public class Solution {
 
         // Print the result
         System.out.println(area);
+        // This is test 
+
 
         scanner.close(); 
     } 
